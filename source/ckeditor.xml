@@ -7,7 +7,7 @@
     <copyright>(C) 2010 - 2016 ThemeXpert. All rights reserved.</copyright>
     <license>GPL</license>
     <version>3.1.0</version>
-    <description>CKEditor component integrates CKEditor, a WYSIWYG online editor, with the link browser plugin and CKFinder configuration options.</description>
+    <description>CKEditor component integrates CKEditor, a WYSIWYG online editor, with the link browser plugin.</description>
     <scriptfile>install_ckeditor.php</scriptfile>
     <install>
         <sql>

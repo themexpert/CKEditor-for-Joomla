@@ -64,8 +64,7 @@ class com_ckeditorInstallerScript
 					$packages   = $source.DS.'packages';
 					
 					// Get editor package	
-					if(is_dir($packages)) {
-						
+					if(is_dir($packages)) {						
 						$editor   = JFolder::files($packages, 'plg_ckeditor.zip', false, true);
 					}
 

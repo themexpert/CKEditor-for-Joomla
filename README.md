@@ -2,6 +2,9 @@
 # CKEditor for Joomla
 CKEditor for Joomla is a Joomla! component that enables CKEditor in your favorite CMS.
 
+## Build instruction
+Zip `source/packages/plg_ckeditor` into `plg_ckeditor.zip` in `source/packages` and rename the root folder as `ckeditor`.
+
 ## JED Link
 http://extensions.joomla.org/extension/ckeditor
 JED Note: this extension is no longer maintained and may not work correctly.
